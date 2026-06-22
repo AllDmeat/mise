@@ -1,5 +1,27 @@
 # Changelog
 
+## [2026.6.13](https://github.com/jdx/mise/compare/v2026.6.12..v2026.6.13) - 2026-06-22
+
+### 🐛 Bug Fixes
+
+- **(aqua)** allow verified checksum algorithm upgrades by @jdx in [#10569](https://github.com/jdx/mise/pull/10569)
+- **(file)** support Windows plugin symlinks for UNC paths by @rozsazoltan in [#10566](https://github.com/jdx/mise/pull/10566)
+- **(node)** suppress npm update notices by @risu729 in [#10557](https://github.com/jdx/mise/pull/10557)
+
+### 📦️ Dependency Updates
+
+- lock file maintenance lockfile maintenance by @renovate[bot] in [#10560](https://github.com/jdx/mise/pull/10560)
+- In a pub workspace, look for package config in workspace root by @tjarvstrand in [#10521](https://github.com/jdx/mise/pull/10521)
+
+### 📦 Registry
+
+- add checksums for http-backend tools by @itochan in [#10552](https://github.com/jdx/mise/pull/10552)
+- add lore by @ggoggam in [#10558](https://github.com/jdx/mise/pull/10558)
+
+### New Contributors
+
+- @rozsazoltan made their first contribution in [#10566](https://github.com/jdx/mise/pull/10566)
+
 ## [2026.6.12](https://github.com/jdx/mise/compare/v2026.6.11..v2026.6.12) - 2026-06-21
 
 ### 🚀 Features
